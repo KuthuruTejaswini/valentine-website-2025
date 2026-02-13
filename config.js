@@ -43,7 +43,7 @@ window.VALENTINE_CONFIG = {
   celebration: {
     title: "Yay! I’m the luckiest person 🥹💗",
     message:
-      "Now you officially signed up for 33 rules(Don't show ur back while reading this!) for your 33rd birthday 😌🎂✨\n\n" +
+      "Now you officially signed up for 32 rules(Don't show ur back while reading this!)✨\n\n" +
       "Keep hitting the gym 🏋️‍♂️💪\n" +
       "Keep dominating tennis 🎾🔥\n" +
       "Keep choosing health, strength & happiness ❤️\n\n" +
