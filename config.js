@@ -18,7 +18,7 @@ window.VALENTINE_CONFIG = {
       text: "Do you like me?",
       yesBtn: "Yes 😌",
       noBtn: "No 🙃",
-      secretAnswer: "I don’t like you… I’m π on you forever. 🥰π💖"
+      secretAnswer: "I don’t like you… I’m luvvvvv you forever. 🥰💖"
     },
     second: {
       text: "How much do you love me?",
@@ -34,8 +34,8 @@ window.VALENTINE_CONFIG = {
 
   // Love Meter Messages
   loveMessages: {
-    extreme: "Okay Mr. Gym + Tennis King 💪🎾 this is unreal love!",
-    high: "To π and beyond… and beyond leg day 🥰🏋️‍♂️💝",
+    extreme: "Okay Mr. Gym + Tennis King 💪🎾 this is too much love!",
+    high: "To pithu and beyond… and beyond leg day 🥰🏋️‍♂️💝",
     normal: "Strong heart. Strong mind. Strong love 💗💪"
   },
 
@@ -43,13 +43,12 @@ window.VALENTINE_CONFIG = {
   celebration: {
     title: "Yay! I’m the luckiest person 🥹💗",
     message:
-      "Now you officially signed up for 33 rules for your 33rd birthday 😌🎂✨\n\n" +
+      "Now you officially signed up for 33 rules(Don't show ur back while reading this!) for your 33rd birthday 😌🎂✨\n\n" +
       "Keep hitting the gym 🏋️‍♂️💪\n" +
       "Keep dominating tennis 🎾🔥\n" +
-      "Keep choosing health, strength & happiness 🧠❤️\n\n" +
-      "You are the kindest and loveliest person I’ve ever met.\n" +
-      "And I’m π on you forever. 🥰π💖",
-    emojis: "🏋️‍♂️🎾💪💗🎂✨💝💕"
+      "Keep choosing health, strength & happiness ❤️\n\n" +
+      "You are the kindest and loveliest person I’ve ever met.\n",
+    emojis: "🏋️‍♂️🎾💪💗✨💝💕"
   },
 
   // Website Colors (Soft Pink)
