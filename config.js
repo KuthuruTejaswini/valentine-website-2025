@@ -18,7 +18,7 @@ window.VALENTINE_CONFIG = {
       text: "Do you like me?",
       yesBtn: "Yes 😌",
       noBtn: "No 🙃",
-      secretAnswer: "I don’t like you… I’m luvvvvv you forever. 🥰💖"
+      secretAnswer: "I don’t like you… I luvvvvv you! 🥰💖"
     },
     second: {
       text: "How much do you love me?",
@@ -71,7 +71,7 @@ window.VALENTINE_CONFIG = {
   // Music Settings (optional)
   music: {
     enabled: false,          // set true if you add music
-    autoplay: true,
+    autoplay: false,
     musicUrl: "YOUR_CLOUDINARY_URL_HERE",
     startText: "🎵 Play Music",
     stopText: "🔇 Stop Music",
