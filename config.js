@@ -1,6 +1,7 @@
 // config.js — Tejaswini → Modha 💝 (soft pink)
 
-const config = {
+// IMPORTANT: This project reads config from window.VALENTINE_CONFIG (see theme.js)
+window.VALENTINE_CONFIG = {
   // Basic Information
   valentineName: "Modha",
   pageTitle: "Modha… will you be my Valentine? 💝",
@@ -17,7 +18,7 @@ const config = {
       text: "Do you like me?",
       yesBtn: "Yes 😌",
       noBtn: "No 🙃",
-      secretAnswer: "I don’t like you… I’m π on u forever. 🥰π💖"
+      secretAnswer: "I don’t like you… I’m π on you forever. 🥰π💖"
     },
     second: {
       text: "How much do you love me?",
@@ -31,26 +32,25 @@ const config = {
     }
   },
 
-// Love Meter Messages
-loveMessages: {
-    extreme: "Okay Mr. Gym + Tennis King 😭💪🎾 this is unreal love!",
+  // Love Meter Messages
+  loveMessages: {
+    extreme: "Okay Mr. Gym + Tennis King 💪🎾 this is unreal love!",
     high: "To π and beyond… and beyond leg day 🥰🏋️‍♂️💝",
     normal: "Strong heart. Strong mind. Strong love 💗💪"
-},
+  },
 
-// Final Celebration
-celebration: {
+  // Final Celebration
+  celebration: {
     title: "Yay! I’m the luckiest person 🥹💗",
     message:
-        "Now you officially signed up for my 33 rules for your 33rd birthday 😌🎂✨\n\n" +
-        "Keep hitting the gym 🏋️‍♂️💪\n" +
-        "Keep dominating tennis 🎾🔥\n" +
-        "Keep choosing health, strength & happiness 🧠❤️\n\n" +
-        "You are the kindest and loveliest person I’ve ever met.\n" +
-        "And I’m π on you forever. 🥰π💖",
+      "Now you officially signed up for 33 rules for your 33rd birthday 😌🎂✨\n\n" +
+      "Keep hitting the gym 🏋️‍♂️💪\n" +
+      "Keep dominating tennis 🎾🔥\n" +
+      "Keep choosing health, strength & happiness 🧠❤️\n\n" +
+      "You are the kindest and loveliest person I’ve ever met.\n" +
+      "And I’m π on you forever. 🥰π💖",
     emojis: "🏋️‍♂️🎾💪💗🎂✨💝💕"
-},
-
+  },
 
   // Website Colors (Soft Pink)
   colors: {
@@ -79,5 +79,3 @@ celebration: {
     volume: 0.5
   }
 };
-
-export default config;
